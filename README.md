@@ -1,2 +1,2 @@
 "# PortFolio.github.io" 
- url https://PortFolio.github.io/Portfolio/index.html
+ url https://kdg200168.github.io/PortFolio.github.io/PortFolio/
